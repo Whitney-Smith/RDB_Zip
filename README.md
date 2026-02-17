@@ -1,5 +1,5 @@
 # RDB_Zipcodes🗺️
-Identified high-potential ZIP codes for an upcoming EDDM campaign by aligning geographic data with the organization's ideal customer profile (ICP). This project considted of researching demographics and psychographic data to pinpoint areas with the highest concentration of target prospects. 
+Identified high-potential ZIP codes for an upcoming EDDM campaign by aligning geographic data with the organization's ideal customer profile (ICP). This project consisted of researching demographic and psychographic data to pinpoint areas with the highest concentration of target prospects. 
 
 ## 💻Technologies
 <ul>

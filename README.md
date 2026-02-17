@@ -12,8 +12,15 @@ Identified high-potential ZIP codes for an upcoming EDDM campaign by aligning ge
 <li>Where will our flyers make the most impact (drive traffic to the booking website)?</li>
 </ul>
 
+## Data Sets 
+<ul> <li>....</li>
+</ul>
+
 ## 👩‍💻The Process
 I started by...
+
+## 👩‍💻The Analysis
+Looking at the...
 
 ## 📚What I Learned
 During this project, I've picked up important skills and gained a better understanding of data visualization, analytical thinking, and stakeholder communication. <br/>
@@ -26,4 +33,21 @@ During this project, I've picked up important skills and gained a better underst
 **Stakeholder Communication**
 <ul>
 <li>Interpreting stakeholder requests into actionable tasks and determining the underlying needs.</li>
+</ul>
+
+# Conclusion
+## Observations & Insights
+<ul> <li>...</li>
+</ul>
+
+## Recommendations
+<ul> <li>...</li>
+</ul>
+
+## Shortcomings
+<ul> <li>...</li>
+</ul>
+
+# Sources
+<ul> <li>...</li>
 </ul>
